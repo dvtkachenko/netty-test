@@ -1,0 +1,7 @@
+to run use command with main class at the end 
+
+java -cp target/netty-test-0.0.1-jar-with-dependencies.jar com.netty.nettytest.echo.EchoServer
+
+java -cp target/netty-test-0.0.1-jar-with-dependencies.jar com.netty.nettytest.echo.EchoClient
+
+java -cp target/netty-test-0.0.1-jar-with-dependencies.jar com.netty.nettytest.http.HttpHelloWorldServer
